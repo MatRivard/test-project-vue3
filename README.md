@@ -1,4 +1,5 @@
-# test-vue2
+# test-vue3
+Test project with Vue3.
 
 ## Project setup
 ```
